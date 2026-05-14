@@ -7,6 +7,9 @@ Shivani Deonath (SBU221482)\
 Preety Sinha (SBU221981)\
 Anand Kumar (SBU221584)    
 
+<img width="1657" height="835" alt="image" src="https://github.com/user-attachments/assets/fcbd3ac3-b739-48e6-bf19-a088321261b4" />
+
+
 # Project Overview
 This system leverages machine learning algorithms to analyze medical parameters and predict disease risks.  
 
