@@ -5,24 +5,24 @@ This project focuses on **early detection and preventive healthcare**, providing
 # Team Members
 Shivani Deonath (SBU221482)\
 Preety Sinha (SBU221981)\
-Anand Kumar (SBU221584)\  
+Anand Kumar (SBU221584)    
 
 # Project Overview
-This system leverages machine learning algorithms to analyze medical parameters and predict disease risks.\
+This system leverages machine learning algorithms to analyze medical parameters and predict disease risks.  
 
-🔍 Predicts:\
-  - Diabetes\
-  - Heart Disease\
-  - Kidney Disease\
-- 🧠 Uses specialized ML models for each disease\
-- 🌐 Deployed using Streamlit for interactive usage\
-- ⚡ Real-time predictions with confidence scores\
+🔍 Predicts:  
+  - Diabetes  
+  - Heart Disease  
+  - Kidney Disease  
+- 🧠 Uses specialized ML models for each disease  
+- 🌐 Deployed using Streamlit for interactive usage  
+- ⚡ Real-time predictions with confidence scores  
 
 # Objectives
-- Build a multi-disease prediction system using ML\
-- Develop high-accuracy models for critical diseases\
-- Create an interactive web-based application\
-- Assist doctors and patients with easy predictions\
+- Build a multi-disease prediction system using ML  
+- Develop high-accuracy models for critical diseases  
+- Create an interactive web-based application  
+- Assist doctors and patients with easy predictions  
 
 # Disease Information
 | Disease         | Dataset Size | Source |
@@ -32,31 +32,31 @@ This system leverages machine learning algorithms to analyze medical parameters 
 | Kidney Disease | 400        | Chronic Kidney Disease Dataset |
 
 # Tech Stack
-- **Programming Language:** Python\
-- **Libraries & Tools:**\
-  - Scikit-learn\
-  - XGBoost\
+- **Programming Language:** Python  
+- **Libraries & Tools:**  
+  - Scikit-learn  
+  - XGBoost  
   - Pandas  
   - NumPy  
 - **Frontend/UI:** Streamlit  
-- **Model Deployment:** Local Streamlit Server\
+- **Model Deployment:** Local Streamlit Server  
 
 # Data Preprocessing
-- Feature Scaling (StandardScaler, RobustScaler)\
-- Missing Value Handling (KNN Imputation)\
-- Outlier Detection (Isolation Forest, LOF)\
-- Feature Engineering (Normalization, BMI Categorization)\
+- Feature Scaling (StandardScaler, RobustScaler)  
+- Missing Value Handling (KNN Imputation)  
+- Outlier Detection (Isolation Forest, LOF)  
+- Feature Engineering (Normalization, BMI Categorization)  
 
 # Machine Learning Models
 
 ## Diabetes Prediction
-- Random Forest + XGBoost (Voting Classifier)\
+- Random Forest + XGBoost (Voting Classifier)  
 
 ## Heart Disease Prediction
-- Gradient Boosting (with early stopping)\
+- Gradient Boosting (with early stopping)  
 
 ## Kidney Disease Prediction
-- Hybrid Model (Machine Learning + Neural Network)\
+- Hybrid Model (Machine Learning + Neural Network)  
 
 # Model Performance
 
@@ -65,9 +65,9 @@ This system leverages machine learning algorithms to analyze medical parameters 
 | Diabetes       | 91.2%   |
 | Heart Disease  | 92.1%   |
 | Kidney Disease | 88.5%   |\
-- High cross-validation consistency\
-- Balanced precision and recall\
-- Reduced overfitting using regularization\
+- High cross-validation consistency  
+- Balanced precision and recall  
+- Reduced overfitting using regularization  
 
 # System Architecture
 
@@ -101,7 +101,7 @@ User Input → Data Preprocessing → Model Prediction → Output (Prediction + 
    streamlit run app.py  
    ```  
 
-#📌 Features
+# 📌Features
 
 - User-friendly web interface  
 - Real-time prediction  
