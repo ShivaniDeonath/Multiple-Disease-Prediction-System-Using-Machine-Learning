@@ -5,7 +5,11 @@ This project focuses on **early detection and preventive healthcare**, providing
 # Team Members
 Shivani Deonath (SBU221482)\
 Preety Sinha (SBU221981)\
-Anand Kumar (SBU221584)    
+Anand Kumar (SBU221584)   
+
+# Project Presentation PPT
+https://drive.google.com/drive/folders/18dzI_5RS5_XIIxuX1poLJdGIRcg2lTO4?usp=sharing
+
 
 <img width="1657" height="835" alt="image" src="https://github.com/user-attachments/assets/fcbd3ac3-b739-48e6-bf19-a088321261b4" />  
 <img width="1641" height="826" alt="image" src="https://github.com/user-attachments/assets/3ab9bf7d-0f0b-458d-815e-f86561b35fc4" />  
